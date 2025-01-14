@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Harsh Mavlikar, and I'm a Web Developer and Software Engineer from Nagpur, India.</h4>
+<h2 align="left">Hi 👋! My name is Harsh Mavlikar, and I'm a Web Developer and Software Engineer from Nagpur, India.</h2>
 
 ###
 
