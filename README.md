@@ -64,6 +64,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/harshmavlikar/harshmavlikar/output/snake.svg" alt="Snake animation" />
+
 
 ###
